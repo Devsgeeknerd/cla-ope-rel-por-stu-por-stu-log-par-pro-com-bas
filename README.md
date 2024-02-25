@@ -7,6 +7,43 @@ Feito na ferramenta.
 
 [Exercício da Aula.](main.por)
 
+> [!IMPORTANT]\
+> **Boas Práticas**:
+>
+> * Nomes Descritivos:
+>   * Utilizar nomes de variáveis descritivos pode melhorar a legibilidade do código.
+>   * No entanto, neste código, os nomes estão razoavelmente descritivos (numero1 e numero2).
+>
+> * Mensagens Informativas:
+>   * Pode ser útil adicionar mensagens mais informativas para orientar o usuário durante a interação com o programa.
+>
+> * Validação de Entrada:
+>   * Considerar a inclusão de validação para garantir que o usuário forneça números válidos como entrada.
+
+> [!WARNING]\
+> **Sugestões de Melhoria**:
+>
+> * Tratamento de Erros:
+>   * Adicionar tratamento de erros ao lidar com a entrada do usuário.
+>   * Por exemplo, caso o usuário insira um valor não numérico.
+>
+> * Espaçamento Consistente:
+>   * Garantir que o código tenha espaçamento e indentação consistentes para melhorar a legibilidade.
+>
+> * Modularização:
+>   * Embora este programa seja simples, em casos mais complexos, considerar a modularização do código para facilitar a manutenção.
+
+> [!NOTE]\
+> **Observações**:
+>
+> * Uso Adequado de Comentários:
+>   * Os comentários no código fornecem uma boa explicação da lógica.
+>   * É sempre uma boa prática usar comentários para esclarecer partes do código que podem ser menos intuitivas.
+>
+> * Simplicidade do Programa:
+>   * Este programa é bastante simples, o que é adequado para seu propósito.
+>   * Em contextos mais complexos, outras estratégias de programação podem ser aplicadas.
+
 <!-- Informações -->
 ## &#8505; Informações
 
